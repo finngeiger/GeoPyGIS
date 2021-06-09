@@ -1,5 +1,9 @@
 import math
 
+def func_01():
+    pass
+
+
 def function_1:
     pass
 
